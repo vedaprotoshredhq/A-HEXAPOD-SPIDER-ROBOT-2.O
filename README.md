@@ -5,11 +5,11 @@
 
 **Hexapod Robot** is a 6-legged walking robot featuring:
 
-- 14cm × 19cm × 5.3cm body chassis
-- Arduino R4 Minima microcontroller
-- 18× MG90S servo motors for leg actuation
+- 15cm × 18cm × 5.6cm body chassis
+- Arduino R4 Minima or any other microcontroller
+- 18× MG996R servo motors for leg actuation
 - 2× PCA9685 16-channel PWM driver boards
-- 300W 20A DC-DC buck converter
+- 2x 300W 20A DC-DC buck converter
 - 11.1V or 7.4V LiPo battery for autonomous operation
 - 3D printed chassis and leg components
 - Modular hexapod kinematics for six-legged locomotion
@@ -18,27 +18,24 @@
 
 ### Travel area
 
-- **Body Width**: 14 cm
-- **Body Length**: 19 cm
-- **Body Height**: 5.3 cm
+- **Body Width**: 13 cm
+- **Body Length**: 18 cm
+- **Body Height**: 5.6 cm
 
 ### Body Specifications
 
-- **Chassis Weight**: 100-140g _(body only excluding leg parts)_
+- **Chassis Weight**: 150-200g _(body only excluding leg parts)_
 - **Battery Runtime**: 13-30 minutes _(depending on activity)_
-- **Total Footprint**: ~25cm × 30cm _(estimated with legs extended)_
+- **Total Footprint**: ~30cm × 35cm _(estimated with legs extended)_
 
 ## CAD
 
 All CAD files are designed in FreeCAD and can be found in the `CAD/` directory:
 
-- **Corex2.0.FCStd** - Hip joint (coxa segment)
-- **Femur2.0.FCStd** - Upper leg segment
-- **Tibita2.1.FCStd** - Lower leg segment with foot
-- **bodyhornsupport.FCStd** - Femur and Tibia Servo horn mounting bracket
-- **extra part 2.0.FCStd** - Coxa Servo horn mounting bracket
-- **lowerrectangularbodyy.FCStd** - Lower body chassis panel
-- **rectangularbodytop.FCStd** - Upper body chassis panel/cover
+- **Corex- Hip joint (coxa segment)
+- **Femur - Upper leg segment
+- **Tibita - Lower leg segment with foot
+  body - body chassis
 
 View the CAD designs with panels removed:
 
