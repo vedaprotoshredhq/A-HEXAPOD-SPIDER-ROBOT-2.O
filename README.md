@@ -1,7 +1,8 @@
 # Hexapod/spider robot 2.0
 
 <p align="center">
-https://github.com/user-attachments/assets/bdde67aa-6c37-45b4-a213-872d5bccac22
+<img width="1098" height="542" alt="Screenshot 2026-08-16 165026" src="https://github.com/user-attachments/assets/68e1ea52-9dcf-49cb-aa25-f7b23682a9a6" />
+
 </p>
 
 **Hexapod Robot** is a 6-legged walking robot featuring:
