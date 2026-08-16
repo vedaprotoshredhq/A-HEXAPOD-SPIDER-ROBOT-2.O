@@ -43,8 +43,11 @@ All CAD files are designed in FreeCAD and can be found in the `CAD/` directory:
 View the CAD designs with panels removed:
 
 <img width="1098" height="542" alt="Screenshot 2026-08-16 165026" src="https://github.com/user-attachments/assets/089cf413-1c95-4d9e-be20-a02b45681800" />
-
-<img width="720" height="791" alt="image" src="https://github.com/user-attachments/assets/7ea5ba53-bd65-4208-95b9-099d813e98ae" />
+<img width="1104" height="544" alt="Screenshot 2026-08-16 170226" src="https://github.com/user-attachments/assets/801a11f8-84e4-4f30-808f-39416028e524" />
+<img width="1103" height="546" alt="Screenshot 2026-08-16 170240" src="https://github.com/user-attachments/assets/471a379a-3cc8-43c2-9151-377a6b45851b" />
+<img width="1104" height="544" alt="Screenshot 2026-08-16 170250" src="https://github.com/user-attachments/assets/e12d1501-b66c-4451-b689-18d5b1af08bc" />
+<img width="1104" height="542" alt="Screenshot 2026-08-16 170310" src="https://github.com/user-attachments/assets/6c281067-8f48-4f00-b311-b034fe546126" />
+<img width="1100" height="540" alt="Screenshot 2026-08-16 170324" src="https://github.com/user-attachments/assets/790f68db-cbe2-4512-8511-ed076cf0e1a4" />
 
 
 ## Assembly
