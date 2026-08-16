@@ -104,7 +104,7 @@ View the CAD designs with panels removed:
 
 ## Credits
 
-- Arduino community for microcontroller guidance.
+- Arduino and Rasberry pi community for microcontroller guidance.
 - PCA9685 PWM board reference designs.
 - Hexapod robotics open-source community for gait algorithms and kinematics.
 
