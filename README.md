@@ -85,12 +85,3 @@ View the CAD designs with panels removed:
 ## License
 
 Hexapod Robot is open-source. More details can be found at [LICENSE.md](LICENSE.md).
-
-![Hexapod Robot]<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/7bf05057-6b16-4d8a-b74a-0f88ae8e2a18" />
-<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/754366f5-e4ec-4b4b-aab1-ff246f03f4a3" />
-
-
-
-
-https://github.com/user-attachments/assets/e71662ce-a957-4413-9a77-1a443444ea11
-
