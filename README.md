@@ -42,7 +42,8 @@ All CAD files are designed in FreeCAD and can be found in the `CAD/` directory:
 
 View the CAD designs with panels removed:
 
-<img width="1600" height="722" alt="image" src="https://github.com/user-attachments/assets/45657123-1a51-4ba2-a1d9-1b3e3921278d" />
+<img width="1098" height="542" alt="Screenshot 2026-08-16 165026" src="https://github.com/user-attachments/assets/089cf413-1c95-4d9e-be20-a02b45681800" />
+
 <img width="720" height="791" alt="image" src="https://github.com/user-attachments/assets/7ea5ba53-bd65-4208-95b9-099d813e98ae" />
 
 
