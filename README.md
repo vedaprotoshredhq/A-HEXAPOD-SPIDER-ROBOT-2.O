@@ -70,6 +70,8 @@ View the CAD designs with panels removed:
 4. Validate walking motion
 5. Fine-tune movement parameters
 
+https://github.com/vedaprotoshredhq/A-HEXAPOD-SPIDER-ROBOT-2.O/blob/main/BOM
+
 ## Credits
 
 - Arduino community for microcontroller guidance.
