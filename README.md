@@ -73,7 +73,8 @@ View the CAD designs with panels removed:
 
 BOM
 
-https://github.com/vedaprotoshredhq/A-HEXAPOD-SPIDER-ROBOT-2.O/blob/main/BOM
+table
+
 
 ## Credits
 
