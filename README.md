@@ -71,8 +71,6 @@ View the CAD designs with panels removed:
 5. Fine-tune movement parameters
 
 
-BOM
-
 # Bill of Materials (BOM)
 
 | Item | Specification / Notes | Quantity | Unit Price (INR) | Unit Price (USD) | Total Price (INR) | Total Price (USD) |
@@ -83,6 +81,7 @@ BOM
 | DS3218 Servo | 180° digital high‑torque servo | 6 | ₹1,300 | $13.60 | ₹7,800 | $81.60 |
 | LiPo Battery | 2S 7.4V 2200mAh | 1 | ₹1,600 | $16.74 | ₹1,600 | $16.74 |
 | LiPo Charger | 1S–4S balance charger | 1 | ₹2,500 | $26.15 | ₹2,500 | $26.15 |
+| Buck Converter | 300 W / 20 A DC‑DC | 2 | ₹495 | $5.18 | ₹990 | $10.36 |
 | Screws (M2 + M3) | **M2:** 4mm×30, 8mm×60, 12mm×30 <br> **M3:** 8mm×80, 12mm×80, 16mm×80 | Combined set | ₹1,000 | $10.46 | ₹1,000 | $10.46 |
 | 3D Printer | Bambu Lab A1 | 1 | ₹32,500 | $339.95 | ₹32,500 | $339.95 |
 | Filament | PLA 1.75mm | 2 rolls | ₹1,500 | $15.70 | ₹3,000 | $31.40 |
@@ -91,7 +90,8 @@ BOM
 
 ## Totals
 - Servos subtotal (MG996R + DS3218): ₹12,930 → $135.24  
-- **Overall BOM:** ₹55,330 → $568.31  
+- Buck converters subtotal: ₹990 → $10.36  
+- **Overall BOM:** ₹56,320 → $578.67  
 
 ---
 
