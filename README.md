@@ -69,7 +69,10 @@ View the CAD designs with panels removed:
 3. Implement hexapod gait algorithm
 4. Validate walking motion
 5. Fine-tune movement parameters
+
+
 BOM
+
 https://github.com/vedaprotoshredhq/A-HEXAPOD-SPIDER-ROBOT-2.O/blob/main/BOM
 
 ## Credits
