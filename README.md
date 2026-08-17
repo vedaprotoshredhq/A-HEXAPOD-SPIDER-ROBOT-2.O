@@ -91,7 +91,7 @@ View the CAD designs with panels removed:
 ## Totals
 - Servos subtotal (MG996R + DS3218): 12,930  $135.24  
 - Buck converters subtotal: 990 $10.36
-- All hardware and electronics (₹19,800 → $207.32) + printer and filament (₹35,500 → $371.35)
+- All hardware and electronics (₹19,800 → $207.32) + 3D Printer and filament (₹35,500 → $371.35)
 - **Overall BOM:** ₹56,320 → $578.67  
 
 ---
