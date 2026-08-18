@@ -77,8 +77,7 @@ View the CAD designs with panels removed:
 |------|------------------------|-----------|----------|------------------|------------------|-------------------|-------------------|
 | MPU6050 Sensor | 6‑axis gyro + accelerometer | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹200 | $2.09 | ₹200 | $2.09 |
 | PCA9685 Driver | 16‑channel servo driver | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹300 | $3.14 | ₹600 | $6.28 |
-| MG996R Servo | 180° metal‑gear servo | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 18 | ₹285 | $2.98 | ₹5,130 | $53.64 |
-| DS3218 Servo | 180° digital high‑torque servo | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 6 | ₹1,300 | $13.60 | ₹7,800 | $81.60 |
+| DS3218 Servo | 180° digital high‑torque servo | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 24 | ₹1,300 | $13.60 | ₹7,800 | $81.60 |
 | LiPo Battery | 2S 7.4V 2200mAh | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹1,600 | $16.74 | ₹1,600 | $16.74 |
 | LiPo Charger | 1S–4S balance charger | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹2,500 | $26.15 | ₹2,500 | $26.15 |
 | Buck Converter | 300 W / 20 A DC‑DC | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹495 | $5.18 | ₹990 | $10.36 |
