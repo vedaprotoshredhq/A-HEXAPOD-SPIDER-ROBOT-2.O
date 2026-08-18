@@ -26,7 +26,7 @@
 
 - **Chassis Weight**: 150-200g _(body only excluding leg parts)_
 - **Battery Runtime**: 13-30 minutes _(depending on activity)_
-- **Total Footprint**: ~30cm × 35cm _(estimated with legs extended)_
+- **Total Footprint**: ~73cm × 78cm _(estimated with legs extended)_
 
 ## CAD
 
@@ -77,7 +77,7 @@ View the CAD designs with panels removed:
 |------|------------------------|-----------|----------|------------------|------------------|-------------------|-------------------|
 | MPU6050 Sensor | 6‑axis gyro + accelerometer | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹200 | $2.09 | ₹200 | $2.09 |
 | PCA9685 Driver | 16‑channel servo driver | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹300 | $3.14 | ₹600 | $6.28 |
-| DS3218 Servo | 180° digital high‑torque servo | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 24 | ₹1,300 | $13.60 | ₹31,200 | $326.40 |
+| DS3218 Servo | 180° digital high‑torque servo | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 20 | ₹1,300 | $13.60 | ₹26,000 | $272.00 |
 | LiPo Battery | 2S 7.4V 2200mAh | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹1,600 | $16.74 | ₹1,600 | $16.74 |
 | LiPo Charger | 1S–4S balance charger | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹2,500 | $26.15 | ₹2,500 | $26.15 |
 | Buck Converter | 300 W / 20 A DC‑DC | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹495 | $5.18 | ₹990 | $10.36 |
@@ -88,7 +88,7 @@ View the CAD designs with panels removed:
 ---
 
 ## Totals
-- Servos subtotal (MG996R + DS3218): 12,930  $135.24  
+- Servos subtotal (DS3218): $272.00
 - Buck converters subtotal: 990 $10.36
 - All hardware and electronics (₹19,800 → $207.32) + 3D Printer and filament (₹35,500 → $371.35)
 - **Overall BOM:** ₹56,320 → $578.67  
