@@ -89,7 +89,7 @@ View the CAD designs with panels removed:
 
 ## Totals
 - Servos subtotal (DS3218): (₹26,000 → $272.00)
-- Buck converters subtotal: (₹990 → $10.36
+- Buck converters subtotal: (₹990 → $10.36)
 - All hardware and electronics (₹32,890 → $344.08) + 3D Printer and filament (₹35,500 → $371.35)
 - **Overall BOM:** ₹68,390 → $643.35
 
