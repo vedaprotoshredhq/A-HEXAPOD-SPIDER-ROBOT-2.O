@@ -119,4 +119,5 @@ View the CAD designs with panels removed:
 Hexapod Robot is open-source. More details can be found at [LICENSE.md](LICENSE.md).
 
 
+## 1 WHOLE LEG 
 <img width="1840" height="4080" alt="IMG_20260818_073730" src="https://github.com/user-attachments/assets/ee247824-6ffb-4026-99da-b93b4f932afd" />
