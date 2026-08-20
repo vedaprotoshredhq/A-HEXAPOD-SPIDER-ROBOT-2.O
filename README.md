@@ -66,7 +66,7 @@ View the CAD designs with panels removed:
 ### Phase 3: Programming & Testing
 1. Load servo control firmware to your microcontroller (allatninewwy.ino)
 2. Test each leg individually 
-3. Implement hexapod gait algorithm
+3. Implement hexapod gait algorithm  firmware_hexapod2.ino)
 4. Validate walking motion
 5. Fine-tune movement parameters 
 
