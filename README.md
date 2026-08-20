@@ -135,21 +135,3 @@ Electronic components (microcontrollers and drivers and power supply and battery
 All hardware and electronics list in BOM above 
 
 ---
-
-
-## COMPLETE BUILD MAY LOOK LIKE THIS (REFRENCE IMAGES FROM MOVIE - EYES ON JULIET)
-
-MOVIE IMAGE 1
-
-<img width="632" height="351" alt="Screenshot 2026-08-21 005157" src="https://github.com/user-attachments/assets/c221c6aa-36fa-4ee4-875b-16c4decd166e" />
-
-
-MOVIE IMAGE 2   
-
-<img width="636" height="357" alt="Screenshot 2026-08-21 005135" src="https://github.com/user-attachments/assets/d37d16fe-bf94-45a3-b426-cabc142f9cef" />
-
----
-
-
-## GOT 3D PRINTED ONLY 1 WHOLE LEG FOR TRIAL AND ERROR OF CAD DESIGN
-<img width="1840" height="4080" alt="IMG_20260818_073730" src="https://github.com/user-attachments/assets/ee247824-6ffb-4026-99da-b93b4f932afd" />
