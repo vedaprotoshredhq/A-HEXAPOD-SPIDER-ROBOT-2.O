@@ -119,16 +119,12 @@ View the CAD designs with panels removed:
 Hexapod Robot is open-source. More details can be found at [LICENSE.md](LICENSE.md).
 
 ## IT'S NOT COMPLETELY BULD YET 
-Complete build requires 
+Complete build requires:- 
 
 The body  
-
 THE 6 legs 
-
 All hardware (3d printed parts and screws and all)
-
 Electronic components (microcontrollers and drivers and power supply and battery and servos)
-
 All hardware and electronics list in BOM above 
 
 ## COMPLETE BUILD MAY LOOK LIKE THIS (REFRENCE IMAGE FROM MOVIE - EYES ON JULIET)
