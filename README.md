@@ -64,12 +64,11 @@ View the CAD designs with panels removed:
 6. Attach legs to chassis using 2mm screws
 
 ### Phase 3: Programming & Testing
-1. Load servo control firmware to your microcontroller
+1. Load servo control firmware to your microcontroller (allatninewwy.ino)
 2. Test each leg individually 
 3. Implement hexapod gait algorithm
 4. Validate walking motion
-5. Fine-tune movement parameters
-
+5. Fine-tune movement parameters 
 
 # Bill of Materials (BOM)
 
