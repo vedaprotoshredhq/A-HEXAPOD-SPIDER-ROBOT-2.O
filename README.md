@@ -61,7 +61,7 @@ View the CAD designs with panels removed:
 3. Mount MG996R servos to leg joints
 4. Connect servos to PCA9685 boards
 5. Calibrate servo angles
-6. Attach legs to chassis using 2mm screws
+6. Attach legs to chassis using 3mm screws
 
 ### Phase 3: Programming & Testing
 1. Load servo control firmware to your microcontroller (allatninewwy.ino)
