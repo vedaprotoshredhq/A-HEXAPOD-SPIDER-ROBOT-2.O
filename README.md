@@ -133,4 +133,6 @@ Electronic components (microcontrollers and drivers and power supply and battery
 
 All hardware and electronics list in BOM above 
 
+Firmware is not conformed yet as right now I don't have any microcontroller or any electronics or chassis or servos.
+
 ---
