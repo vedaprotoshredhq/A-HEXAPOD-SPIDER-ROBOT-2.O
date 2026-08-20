@@ -48,14 +48,14 @@ View the CAD designs with panels removed:
 
 ## Assembly
 
-### Phase 1: Chassis Assembly (Completed)
+### Phase 1: Chassis Assembly
 1. Assemble 3D printed chassis components (use 3m screws)
 2. Mount Arduino R4 Minima or any microcolntoller on upper chassis
 3. Install 2x PCA9685 PWM driver boards in lower chassis 
 4. Connect 2x DC-DC buck converter input to battery and output to 2x pca9685 boards and Arduino Jack 
 6. Test power.
 
-### Phase 2: Leg Assembly (In Progress)
+### Phase 2: Leg Assembly 
 1. 3D print all leg components
 2. Clean and assemble printed parts
 3. Mount MG996R servos to leg joints
