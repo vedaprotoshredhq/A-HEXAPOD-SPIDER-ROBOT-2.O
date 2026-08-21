@@ -67,7 +67,7 @@ View the CAD designs with panels removed:
 ### Phase 3: Programming & Testing
 1. Load servo control firmware to your microcontroller [allatninewwy.ino](https://github.com/vedaprotoshredhq/A-HEXAPOD-SPIDER-ROBOT-2.O/blob/main/allatninwty.ino)
 2. Test each leg individually 
-3. Implement hexapod gait algorithm [firmware_hexapod2.ino]()
+3. Implement hexapod gait algorithm [firmware_hexapod2.ino](https://github.com/vedaprotoshredhq/A-HEXAPOD-SPIDER-ROBOT-2.O/blob/main/firmware/firmware_hexapod2.ino)
 4. Validate walking motion
 5. Fine-tune movement parameters 
 
