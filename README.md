@@ -128,7 +128,7 @@ The body
 
 THE 6 legs 
 
-All hardware (3d printed parts and screws and all)
+All hardware (3d printed parts and screws and all electronic components)
 
 Electronic components (microcontrollers and drivers and power supply and battery and servos)
 
