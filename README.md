@@ -30,7 +30,7 @@
 
 ## CAD
 
-All CAD files are designed in FreeCAD and can be found in the `[STL](https://github.com/vedaprotoshredhq/A-HEXAPOD-SPIDER-ROBOT-2.O/tree/main/STL)` directory:
+All CAD files are designed in FreeCAD and can be found in the `(STL)[https://github.com/vedaprotoshredhq/A-HEXAPOD-SPIDER-ROBOT-2.O/tree/main/STL]` directory:
 
 - **Corex- Hip joint (coxa segment)
 - **Femur - Upper leg segment
