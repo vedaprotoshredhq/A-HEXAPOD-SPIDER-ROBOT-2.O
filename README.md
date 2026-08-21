@@ -62,6 +62,7 @@ View the CAD designs with panels removed:
 4. Connect servos to PCA9685 boards
 5. Calibrate servo angles
 6. Attach legs to chassis using 3mm screws
+7. NO PCB REQUIRED UNTIL YOU WANT MRE FEATURES THEN NORMAL WALKING (ALL THE ELECTRONICS COMPONENTS LISTED WILL DO THE WORK WITHOUT A PCB)
 
 ### Phase 3: Programming & Testing
 1. Load servo control firmware to your microcontroller [allatninewwy.ino](https://github.com/vedaprotoshredhq/A-HEXAPOD-SPIDER-ROBOT-2.O/blob/main/allatninwty.ino)
