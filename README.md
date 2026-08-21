@@ -30,7 +30,7 @@
 
 ## CAD
 
-All CAD files are designed in FreeCAD and can be found in the `CAD/` directory:
+All CAD files are designed in FreeCAD and can be found in the `STL/` directory:
 
 - **Corex- Hip joint (coxa segment)
 - **Femur - Upper leg segment
