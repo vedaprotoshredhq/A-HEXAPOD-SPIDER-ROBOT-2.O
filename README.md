@@ -119,7 +119,7 @@ View the CAD designs with panels removed:
 Hexapod Robot is open-source. More details can be found at [LICENSE.md](LICENSE.md).
 
 ---
-
+## NOTES FOR THE REVIEWER: -
 ## IT'S NOT COMPLETELY BULD YET 
 Complete build requires:- 
 
