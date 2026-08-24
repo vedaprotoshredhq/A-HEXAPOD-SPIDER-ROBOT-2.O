@@ -83,16 +83,14 @@ View the CAD designs with panels removed:
 | LiPo Charger | 1S–4S balance charger | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹2,500 | $26.15 | ₹2,500 | $26.15 |
 | Buck Converter | 300 W / 20 A DC‑DC | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹495 | $5.18 | ₹990 | $10.36 |
 | Screws (M2 + M3) | **M2:** 8mm×168, 12mm×12 <br> **M3:** 8mm×24, 12mm×84, 16mm×12 | OnlyScrews, Robocraze, Robu.in | Combined set | ₹1,000 | $10.46 | ₹1,000 | $10.46 |
-| 3D Printer | Bambu Lab A1 | Zbotic, Robu.in, Robocraze | 1 | ₹32,500 | $339.95 | ₹32,500 | $339.95 |
-| Filament | PLA 1.75mm | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 rolls | ₹1,500 | $15.70 | ₹3,000 | $31.40 |
 
 ---
 
 ## Totals
 - Servos subtotal (DS3218): (₹26,000 → $272.00)
 - Buck converters subtotal: (₹990 → $10.36)
-- All hardware and electronics (₹40,640 → $425.01) + 3D Printer and filament (₹35,500 → $371.35)
-- **Overall BOM:** ₹76,140 → $796.36
+- All hardware and electronics (₹40,640 → $425.01)
+- **Overall BOM:** ₹40,640 → $425.01
 
 ---
 
