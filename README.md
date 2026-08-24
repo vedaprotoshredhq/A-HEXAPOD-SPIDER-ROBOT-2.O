@@ -115,7 +115,7 @@ View the CAD designs with panels removed:
 
 ## License
 
-Hexapod Robot is open-source. More details can be found at [LICENSE.md](LICENSE.md).
+Hexapod Robot is open-source. More details can be found at [LICENSE.md](https://github.com/vedaprotoshredhq/A-HEXAPOD-SPIDER-ROBOT-2.O/blob/main/LICENSE).
 
 ---
 # NOTES FOR THE REVIEWER: -
