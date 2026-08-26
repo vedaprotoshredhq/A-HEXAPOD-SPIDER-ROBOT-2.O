@@ -5,9 +5,9 @@
 
 **Hexapod Robot** is a 6-legged walking robot featuring:
 
-- 15cm × 18cm × 5.6cm body chassis
-- Arduino R4 Minima or any other microcontroller
-- 18× MG996R servo motors for leg actuation
+- 13cm × 18cm × 5.6cm body chassis
+- Arduino UNO Q or Raspberry Pi 3,4,5
+- 18× DS3240 servo motors for leg actuation
 - 2× PCA9685 16-channel PWM driver boards
 - 2x 300W 20A DC-DC buck converter
 - 11.1V or 7.4V LiPo battery for autonomous operation
@@ -26,7 +26,7 @@
 
 - **Chassis Weight**: 150-200g _(body only excluding leg parts)_
 - **Battery Runtime**: 13-30 minutes _(depending on activity)_
-- **Total Footprint**: ~73cm × 78cm _(estimated with legs extended)_
+- **Total Footprint**: ~100cm × 130cm _(estimated with legs extended)_
 
 ## CAD
 
