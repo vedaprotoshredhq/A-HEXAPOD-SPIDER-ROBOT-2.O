@@ -10,7 +10,7 @@
 - 18× DS3240 servo motors for leg actuation
 - 2× PCA9685 16-channel PWM driver boards
 - 2x 300W 20A DC-DC buck converter
-- 11.1V or 7.4V LiPo battery for autonomous operation
+- 11.1V or 7.4V LiPo battery for autonomous operation (atleast 2200mah)
 - 3D printed chassis and leg components
 - Modular hexapod kinematics for six-legged locomotion
 
@@ -26,7 +26,7 @@
 
 - **Chassis Weight**: 150-200g _(body only excluding leg parts)_
 - **Battery Runtime**: 13-30 minutes _(depending on activity)_
-- **Total Footprint**: ~100cm × 130cm _(estimated with legs extended)_
+- **Total Footprint**: ~90cm × 120cm _(estimated with legs extended)_
 
 ## CAD
 
@@ -35,7 +35,7 @@ All CAD files are designed in FreeCAD and can be found in the `[STL/]` directory
 - **Corex- Hip joint (coxa segment)
 - **Femur - Upper leg segment
 - **Tibita - Lower leg segment with foot
-  body - body chassis
+- **Body - body chassis
 
 View the CAD designs with panels removed:
 
@@ -50,19 +50,20 @@ View the CAD designs with panels removed:
 
 ### Phase 1: Chassis Assembly
 1. Assemble 3D printed chassis components (use 3m screws)
-2. Mount Arduino R4 Minima or any microcolntoller on upper chassis
+2. Mount Arduino UNO Q or Raspberry Pi 3,4,5 on upper chassis
 3. Install 2x PCA9685 PWM driver boards in lower chassis 
-4. Connect 2x DC-DC buck converter input to battery and output to 2x pca9685 boards and Arduino Jack 
-6. Test power.
+4. Connect 2x DC-DC buck converter input to battery and output to 2x pca9685 boards and Arduino Jack or Raspberry Pi power input.
+5. Test power.
 
 ### Phase 2: Leg Assembly 
 1. 3D print all leg components
-2. Clean and assemble printed parts
-3. Mount MG996R servos to leg joints
+2. Clean and assemble printed parts using M3 screws
+3. Mount DS3240 servos to leg joints using M3 screws
 4. Connect servos to PCA9685 boards
 5. Calibrate servo angles
-6. Attach legs to chassis using 3mm screws
-7. NO PCB REQUIRED UNTIL YOU WANT MRE FEATURES THEN NORMAL WALKING (ALL THE ELECTRONICS COMPONENTS LISTED WILL DO THE WORK WITHOUT A PCB)
+6. Use M2 screws to connect servo horns to chassis
+7. Attach legs to chassis using M3 screws
+8. NO PCB REQUIRED UNTIL YOU WANT MRE FEATURES THEN NORMAL WALKING (ALL THE ELECTRONICS COMPONENTS LISTED WILL DO THE WORK WITHOUT A PCB)
 
 ### Phase 3: Programming & Testing
 1. Load servo control firmware to your microcontroller [allatninewwy.ino](https://github.com/vedaprotoshredhq/A-HEXAPOD-SPIDER-ROBOT-2.O/blob/main/allatninwty.ino)
@@ -95,9 +96,9 @@ View the CAD designs with panels removed:
 ---
 
 ### Screw Inventory Summary
-- M2 screws total: 120 pieces  
-- M3 screws total: 240 pieces  
-- **Grand total screws:** 360 pieces
+- M2 screws total: 180 pieces  
+- M3 screws total: 120 pieces  
+- **Grand total screws:** 300 pieces
 
 
 
@@ -109,7 +110,7 @@ View the CAD designs with panels removed:
 
 ## Thank you's
 
-- Protoshred HQ team for design and assembly.
+- ProtoshredHQ team for design and assembly.
 - FreeCAD community for excellent CAD tools.
 - 3D printing community for printing tips and optimization.
 
@@ -119,12 +120,12 @@ Hexapod Robot is open-source. More details can be found at [LICENSE.md](https://
 
 ---
 # NOTES FOR THE REVIEWER: -
-## IT'S NOT COMPLETELY BULD YET 
-Complete build requires:- 
+## HEXAPOD IS NOT COMPLETELY BULD YET 
+Complete build requires: - 
 
-The body  
+The body chassis
 
-THE 6 legs 
+THE 6 legs chassis
 
 All hardware (3d printed parts and screws and all electronic components)
 
@@ -132,7 +133,7 @@ Electronic components (microcontrollers and drivers and power supply and battery
 
 All hardware and electronics list in BOM above 
 
-Firmware is not conformed yet, the firmware given above can work but, right now I don't have any microcontroller or any electronics or chassis or servos. The correct firmware needs Inverse Kinematics which can be done after everything is assembled(all chassis and servos and electronics and hardware).
+Firmware is not conformed yet, the firmware given above can work but, right now I don't have any microcontroller or any electronics or chassis or servos. The correct firmware needs Inverse Kinematics which can be done after everything is assembled (all chassis and servos and electronics and hardware).
 
 
  
