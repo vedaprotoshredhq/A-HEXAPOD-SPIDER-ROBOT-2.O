@@ -91,9 +91,10 @@ View the CAD designs with panels removed:
 | Item | Specification / Notes | Quantity | Unit Price (INR) | Unit Price (USD) | Total Price (INR) | Total Price (USD) |
 |------|------------------------|----------|------------------|------------------|-------------------|-------------------|
 | 2.0v1mg996rheightorquebody-BodyMirrored001 .stl | Hexapod main body | 1x | ₹1,515 | $15.90 | ₹1,515 | $15.90 |
+| 3d printed parts bom not completed yet |
 ---
 
-## Totals
+## Totals ( excluding 3d printed parts )
 - Servos subtotal (DS3218): (₹26,000 → $272.00)
 - All hardware and electronics (₹40,780 → $426.65)
 - **Overall BOM:** ₹40,780 → $426.65
