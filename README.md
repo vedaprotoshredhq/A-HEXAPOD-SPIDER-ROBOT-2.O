@@ -72,7 +72,7 @@ View the CAD designs with panels removed:
 4. Validate walking motion
 5. Fine-tune movement parameters 
 
-# Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 | Item | Specification / Notes | Indian Retailers | Quantity | Unit Price (INR) | Unit Price (USD) | Total Price (INR) | Total Price (USD) |
 |------|------------------------|-----------|----------|------------------|------------------|-------------------|-------------------|
@@ -86,7 +86,7 @@ View the CAD designs with panels removed:
 | Buck Converter | 300 W / 20 A DC‑DC | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹495 | $5.20 | ₹990 | $10.40 |
 | Screws (M2 + M3) | **M2:** 8mm×168, 12mm×12 <br> **M3:** 8mm×24, 12mm×84, 16mm×12 | OnlyScrews, Robocraze, Robu.in | Combined set | ₹1,000 | $10.50 | ₹1,000 | $10.50 |
 
-| 3D PRINTED PARTS BOM |
+# 3D PRINTED PARTS BOM 
 ---
 
 ## Totals
