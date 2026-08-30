@@ -1,29 +1,33 @@
-# Bill of Materials (BOM)
 
 | Item | Specification / Notes | Indian Retailers | Quantity | Unit Price (INR) | Unit Price (USD) | Total Price (INR) | Total Price (USD) |
 |------|------------------------|-----------|----------|------------------|------------------|-------------------|-------------------|
-| MPU6050 Sensor | 6‑axis gyro + accelerometer | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹200 | $2.09 | ₹200 | $2.09 |
-| PCA9685 Driver | 16‑channel servo driver | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹300 | $3.14 | ₹600 | $6.28 |
-| MG996R Servo | 180° metal‑gear servo | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 18 | ₹285 | $2.98 | ₹5,130 | $53.64 |
-| DS3218 Servo | 180° digital high‑torque servo | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 6 | ₹1,300 | $13.60 | ₹7,800 | $81.60 |
-| LiPo Battery | 2S 7.4V 2200mAh | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹1,600 | $16.74 | ₹1,600 | $16.74 |
+| ARDUINO UNO Q or RASBERRY PI 3,4,5 | advanced calculations , smart control , AI | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹7750 | $80.95 | ₹7750 | $80.95 |
+| MPU6050 Sensor | 6‑axis gyro + accelerometer | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹200 | $2.1 | ₹200 | $2.1 |
+| CD74HC4067 | 16-CHANNEL ANALOG/DIGITAL MULTIPLEXER/DEMULTIPLEXER BREAKOUT BOARD | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹70 | $0.75| ₹140 | $1.5 |
+| PCA9685 Driver | 16‑channel servo driver | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹300 | $3.15 | ₹600 | $6.30 |
+| DS3240 Servo | 180° digital high‑torque servo | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 20 | ₹1,300 | $13.60 | ₹26,000 | $272.00 |
+| LiPo Battery | 2S 7.4V 2200mAh | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹1,600 | $16.75 | ₹1,600 | $16.75 |
 | LiPo Charger | 1S–4S balance charger | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹2,500 | $26.15 | ₹2,500 | $26.15 |
-| Buck Converter | 300 W / 20 A DC‑DC | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹495 | $5.18 | ₹990 | $10.36 |
-| Screws (M2 + M3) | **M2:** 4mm×30, 8mm×60, 12mm×30 <br> **M3:** 8mm×80, 12mm×80, 16mm×80 | Screws, Robocraze, Robu.in | Combined set | ₹1,000 | $10.46 | ₹1,000 | $10.46 |
-| 3D Printer | Bambu Lab A1 | Zbotic, Robu.in, Robocraze | 1 | ₹32,500 | $339.95 | ₹32,500 | $339.95 |
-| Filament | PLA 1.75mm | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 rolls | ₹1,500 | $15.70 | ₹3,000 | $31.40 |
+| Buck Converter | 300 W / 20 A DC‑DC | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹495 | $5.20 | ₹990 | $10.40 |
+| Screws (M2 + M3) | **M2:** 8mm×168, 12mm×12 <br> **M3:** 8mm×24, 12mm×84, 16mm×12 | OnlyScrews, Robocraze, Robu.in | Combined set | ₹1,000 | $10.50 | ₹1,000 | $10.50 |
 
+## 3D PRINTED PARTS BOM 
+
+| Item | Specification / Notes | Quantity | Unit Price (INR) | Unit Price (USD) | Total Price (INR) | Total Price (USD) |
+|------|------------------------|----------|------------------|------------------|-------------------|-------------------|
+| 2.0v1mg996rheightorquebody-BodyMirrored001 .stl | Hexapod main body | 1x | ₹1,515 | $15.90 | ₹1,515 | $15.90 |
+| 3d printed parts bom not completed yet |
 ---
 
-## Totals
-- Servos subtotal (MG996R + DS3218): ₹12,930 → $135.24  
-- Buck converters subtotal: ₹990 → $10.36  
-- **Overall BOM:** ₹56,320 → $578.67  
+## Totals ( excluding 3d printed parts )
+- Servos subtotal (DS3218): (₹26,000 → $272.00)
+- All hardware and electronics (₹40,780 → $426.65)
+- **Overall BOM:** ₹40,780 → $426.65
 
 ---
 
 ### Screw Inventory Summary
-- M2 screws total: 120 pieces  
-- M3 screws total: 240 pieces  
-- **Grand total screws:** 360 pieces
+- M2 screws total: 180 pieces  
+- M3 screws total: 120 pieces  
+- **Grand total screws:** 300 pieces
 
