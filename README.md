@@ -76,22 +76,21 @@ View the CAD designs with panels removed:
 
 | Item | Specification / Notes | Indian Retailers | Quantity | Unit Price (INR) | Unit Price (USD) | Total Price (INR) | Total Price (USD) |
 |------|------------------------|-----------|----------|------------------|------------------|-------------------|-------------------|
-| ARDUINO UNO Q or RASBERRY PI 3,4,5 | advanced calculations , smart control , AI | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹7750 | $80.93 | ₹7750 | $80.93 |
-| MPU6050 Sensor | 6‑axis gyro + accelerometer | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹200 | $2.09 | ₹200 | $2.09 |
-| PCA9685 Driver | 16‑channel servo driver | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹300 | $3.14 | ₹600 | $6.28 |
+| ARDUINO UNO Q or RASBERRY PI 3,4,5 | advanced calculations , smart control , AI | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹7750 | $80.95 | ₹7750 | $80.95 |
+| MPU6050 Sensor | 6‑axis gyro + accelerometer | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹200 | $2.1 | ₹200 | $2.1 |
+| CD74HC4067 | 16-CHANNEL ANALOG/DIGITAL MULTIPLEXER/DEMULTIPLEXER BREAKOUT BOARD | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹70 | $0.75| ₹140 | $1.5 |
+| PCA9685 Driver | 16‑channel servo driver | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹300 | $3.15 | ₹600 | $6.30 |
 | DS3240 Servo | 180° digital high‑torque servo | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 20 | ₹1,300 | $13.60 | ₹26,000 | $272.00 |
-| LiPo Battery | 2S 7.4V 2200mAh | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹1,600 | $16.74 | ₹1,600 | $16.74 |
+| LiPo Battery | 2S 7.4V 2200mAh | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹1,600 | $16.75 | ₹1,600 | $16.75 |
 | LiPo Charger | 1S–4S balance charger | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹2,500 | $26.15 | ₹2,500 | $26.15 |
-| Buck Converter | 300 W / 20 A DC‑DC | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹495 | $5.18 | ₹990 | $10.36 |
-| Screws (M2 + M3) | **M2:** 8mm×168, 12mm×12 <br> **M3:** 8mm×24, 12mm×84, 16mm×12 | OnlyScrews, Robocraze, Robu.in | Combined set | ₹1,000 | $10.46 | ₹1,000 | $10.46 |
-
+| Buck Converter | 300 W / 20 A DC‑DC | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹495 | $5.20 | ₹990 | $10.40 |
+| Screws (M2 + M3) | **M2:** 8mm×168, 12mm×12 <br> **M3:** 8mm×24, 12mm×84, 16mm×12 | OnlyScrews, Robocraze, Robu.in | Combined set | ₹1,000 | $10.50 | ₹1,000 | $10.50 |
 ---
 
 ## Totals
 - Servos subtotal (DS3218): (₹26,000 → $272.00)
-- Buck converters subtotal: (₹990 → $10.36)
-- All hardware and electronics (₹40,640 → $425.01)
-- **Overall BOM:** ₹40,640 → $425.01
+- All hardware and electronics (₹40,780 → $426.65)
+- **Overall BOM:** ₹40,780 → $426.65
 
 ---
 
