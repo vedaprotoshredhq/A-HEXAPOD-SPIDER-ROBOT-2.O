@@ -87,19 +87,19 @@ View the CAD designs with panels removed:
 | LiPo Battery | 2S 7.4V 2200mAh | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹1,600 | $16.75 | ₹1,600 | $16.75 |
 | LiPo Charger | 1S–4S balance charger | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹2,500 | $26.15 | ₹2,500 | $26.15 |
 | Buck Converter | 300 W / 20 A DC‑DC | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹495 | $5.20 | ₹990 | $10.40 |
-| Screws (M2 + M3) | **M2:** 8mm×168, 12mm×12 <br> **M3:** 8mm×24, 12mm×84, 16mm×12 | OnlyScrews, Robocraze, Robu.in | Combined set | ₹1,000 | $10.50 | ₹1,000 | $10.50 |
+| Screws (M2 + M3) | **M2:** 8mm×168, 12mm×12 <br> **M3:** 8mm×24, 12mm×84, 16mm×12 | OnlyScrews | Combined set | ₹1,000 | $10.50 | ₹1,000 | $10.50 |
 ---
 
 ## 3D PRINTED PARTS BOM 
 
 | **No.** | **[Item](ca://s?q=Explain_item_names_in_BOM)** | **[Specification](ca://s?q=Explain_specifications_in_BOM)** | **[Quantity](ca://s?q=Explain_quantity_in_BOM)** | **[Unit Price ₹](ca://s?q=Explain_unit_price_in_Rupees)** | **[Unit Price $](ca://s?q=Explain_unit_price_in_USD)** | **[Total ₹](ca://s?q=Explain_total_in_Rupees)** | **[Total $](ca://s?q=Explain_total_in_USD)** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Body to Coxa Body Fillet 005.htl | – | 6 | 266.40 | 3.21 | 1,598.40 | 19.25 |
-| 2 | Coxa to Femur Lower Body Fillet 001.htl | – | 6 | 94.11 | 1.13 | 564.66 | 6.80 |
-| 3 | Femur to Coxa Horn Cover Body.htl | – | 6 | 47.38 | 0.57 | 284.28 | 3.42 |
-| 4 | Femur Body Fillet 004.htl | – | 6 | 516.25 | 6.22 | 3,097.50 | 37.30 |
-| 5 | Femur Bottom Body Fillet 003.htl | – | 6 | 105.00 | 1.27 | 630.00 | 7.59 |
-| 6 | Coxa to Femur Tibia Ball Bearing Body Fillet 002.htl | – | 6 | 95.54 | 1.15 | 573.24 | 6.91 |
+| 1 | bodytocoxa-BodyFillet 005.stl | to connect body to coxa motor | 6 | 266.40 | 3.21 | 1,598.40 | 19.25 |
+| 2 | coxatofemurlower-BodyFillet 001.stl | for coxa motor ball bearing | 6 | 94.11 | 1.13 | 564.66 | 6.80 |
+| 3 | femurtocoxahorncover-Body.htl | for coxa motor horn | 6 | 47.38 | 0.57 | 284.28 | 3.42 |
+| 4 | femur-BodyFillet004.stl | – | 6 | 516.25 | 6.22 | 3,097.50 | 37.30 |
+| 5 | femurbottom-BodyFillet003.shtl | – | 6 | 105.00 | 1.27 | 630.00 | 7.59 |
+| 6 | coxatofemurtibiaballbearing-BodyFillet002.stl | – | 6 | 95.54 | 1.15 | 573.24 | 6.91 |
 | 7 | Tibia Horn Part | – | 6 | 293.45 | 3.54 | 1,760.70 | 21.21 |
 | 8 | Tibia Tip Body Fillet 001.htl | – | 6 | 69.75 | 0.84 | 418.50 | 5.04 |
 | 9 | Tibia Tip R Body Fillet 001.htl | – | 6 | 96.76 | 1.17 | 580.56 | 6.99 |
