@@ -111,7 +111,7 @@ View the CAD designs with panels removed:
 | 15 | 1 mm Spring Body Fillet 001.htl | – | 12 | 58.51 | 0.70 | 702.12 | 8.46 |
 | 16 | TPU 2.5 mm Half Spring Body Pocket.htl | – | 12 | 48.71 | 0.59 | 584.52 | 7.04 |
 | 17 | TPU 2.5 mm Spring Body Fillet 001.htl | – | 12 | 66.30 | 0.80 | 795.60 | 9.58 |
-| 18 | **2.0 v1 MG996R High Torque Body – Body Mirrored 001.stl** | Motor Steel | 1 | 1,513.53 | 18.24 | 1,513.53 | 18.24 |
+| 18 | **2.0 v1 MG996R High Torque Body – Body Mirrored 001.stl** | - | 1 | 1,513.53 | 18.24 | 1,513.53 | 18.24 |
 ---
 
 
@@ -126,7 +126,7 @@ Total in $ (US Dollars): $213.30
 ## Totals ( Excluding 3d printed parts )
 - Servos subtotal (DS3218): (₹26,000 → $272.00)
 - All hardware and electronics (₹40,780 → $426.65)
-- **Overall BOM:** ₹17,706.65 + ₹40,780 → $213.30 + $426.65 = ₹58.486.65 → 639.95
+- **Overall BOM:** ₹17,706.65 + ₹40,780 → $213.30 + $426.65 = ₹58.486.65 → $639.95
 
 ---
 
