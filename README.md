@@ -46,8 +46,11 @@ View the CAD designs with panels removed:
 <img width="1100" height="540" alt="Screenshot 2026-08-16 170324" src="https://github.com/user-attachments/assets/790f68db-cbe2-4512-8511-ed076cf0e1a4" />
 
 
+
 COMPLETE ASSEMBLY WILL LOOK LIKE THIS ( THIS SHOWS ONLY 1 LEG AS IT'S SAME FOR ALL 6 LEGS )
-Complete assembly STEP file → ()
+
+Complete assembly STEP file → (completeassemblytry2-completeassembly1sttry_001.step)
+
 <img width="1919" height="1021" alt="Screenshot 2026-09-01 222856" src="https://github.com/user-attachments/assets/48aaf24f-6a2a-42d3-a279-2ca550e0cfe1" />
 
 
