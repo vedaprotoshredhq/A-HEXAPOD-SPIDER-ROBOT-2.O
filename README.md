@@ -88,10 +88,26 @@ View the CAD designs with panels removed:
 
 ## 3D PRINTED PARTS BOM 
 
-| Item | Specification / Notes | Quantity | Unit Price (INR) | Unit Price (USD) | Total Price (INR) | Total Price (USD) |
-|------|------------------------|----------|------------------|------------------|-------------------|-------------------|
-| 2.0v1mg996rheightorquebody-BodyMirrored001 .stl | Hexapod main body | 1x | ₹1,515 | $15.90 | ₹1,515 | $15.90 |
-| 3d printed parts bom not completed yet |
+| **No.** | **[Item](ca://s?q=Explain_item_names_in_BOM)** | **[Specification](ca://s?q=Explain_specifications_in_BOM)** | **[Quantity](ca://s?q=Explain_quantity_in_BOM)** | **[Unit Price ₹](ca://s?q=Explain_unit_price_in_Rupees)** | **[Unit Price $](ca://s?q=Explain_unit_price_in_USD)** | **[Total ₹](ca://s?q=Explain_total_in_Rupees)** | **[Total $](ca://s?q=Explain_total_in_USD)** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Body to Coxa Body Fillet 005.htl | – | 6 | 266.40 | 3.21 | 1,598.40 | 19.25 |
+| 2 | Coxa to Femur Lower Body Fillet 001.htl | – | 6 | 94.11 | 1.13 | 564.66 | 6.80 |
+| 3 | Femur to Coxa Horn Cover Body.htl | – | 6 | 47.38 | 0.57 | 284.28 | 3.42 |
+| 4 | Femur Body Fillet 004.htl | – | 6 | 516.25 | 6.22 | 3,097.50 | 37.30 |
+| 5 | Femur Bottom Body Fillet 003.htl | – | 6 | 105.00 | 1.27 | 630.00 | 7.59 |
+| 6 | Coxa to Femur Tibia Ball Bearing Body Fillet 002.htl | – | 6 | 95.54 | 1.15 | 573.24 | 6.91 |
+| 7 | Tibia Horn Part | – | 6 | 293.45 | 3.54 | 1,760.70 | 21.21 |
+| 8 | Tibia Tip Body Fillet 001.htl | – | 6 | 69.75 | 0.84 | 418.50 | 5.04 |
+| 9 | Tibia Tip R Body Fillet 001.htl | – | 6 | 96.76 | 1.17 | 580.56 | 6.99 |
+| 10 | Cover Body Fillet.stl | – | 12 | 40.48 | 0.49 | 485.76 | 5.86 |
+| 11 | Ground Shock Bottom Body Fillet 001.htl | – | 6 | 217.41 | 2.62 | 1,304.46 | 15.72 |
+| 12 | Ground Shock Middle Body Fillet 001.htl | – | **12** | 74.63 | 0.90 | 895.56 | 10.79 |
+| 13 | TheEnd2-Body Pad 001.htl | – | 6 | 54.97 | 0.66 | 329.82 | 3.97 |
+| 14 | 1 mm Half Spring Body Pocket 005.htl | – | 12 | 42.27 | 0.51 | 507.24 | 6.11 |
+| 15 | 1 mm Spring Body Fillet 001.htl | – | 12 | 58.51 | 0.70 | 702.12 | 8.46 |
+| 16 | TPU 2.5 mm Half Spring Body Pocket.htl | – | 12 | 48.71 | 0.59 | 584.52 | 7.04 |
+| 17 | TPU 2.5 mm Spring Body Fillet 001.htl | – | 12 | 66.30 | 0.80 | 795.60 | 9.58 |
+| 18 | **2.0 v1 MG996R High Torque Body – Body Mirrored 001.stl** | Motor Steel | 1 | 1,513.53 | 18.24 | 1,513.53 | 18.24 |
 ---
 
 ## Totals ( excluding 3d printed parts )
