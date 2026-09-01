@@ -47,7 +47,7 @@ View the CAD designs with panels removed:
 
 
 
-COMPLETE ASSEMBLY WILL LOOK LIKE THIS ( THIS SHOWS ONLY 1 LEG AS IT'S SAME FOR ALL 6 LEGS )
+## COMPLETE ASSEMBLY WILL LOOK LIKE THIS ( THIS SHOWS ONLY 1 LEG AS IT'S SAME FOR ALL 6 LEGS )
 
 Complete assembly STEP file → [completeassemblytry2-completeassembly1sttry_001.step](https://github.com/vedaprotoshredhq/A-HEXAPOD-SPIDER-ROBOT-2.O/blob/main/STEP/completeassemblytry2-completeassembly1sttry_001.step)
 
