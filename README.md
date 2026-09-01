@@ -110,8 +110,11 @@ View the CAD designs with panels removed:
 | 18 | **2.0 v1 MG996R High Torque Body – Body Mirrored 001.stl** | Motor Steel | 1 | 1,513.53 | 18.24 | 1,513.53 | 18.24 |
 ---
 ##Grand Totals (All 3d printed parts)
+
 Total in ₹ (Indian Rupees): ₹17,706.65
+
 Total in $ (US Dollars): $213.30
+
 
 
 ## Totals ( excluding 3d printed parts )
