@@ -109,7 +109,9 @@ View the CAD designs with panels removed:
 | 17 | TPU 2.5 mm Spring Body Fillet 001.htl | – | 12 | 66.30 | 0.80 | 795.60 | 9.58 |
 | 18 | **2.0 v1 MG996R High Torque Body – Body Mirrored 001.stl** | Motor Steel | 1 | 1,513.53 | 18.24 | 1,513.53 | 18.24 |
 ---
-##Grand Totals (All 3d printed parts)
+
+
+## Totals (ONLY 3d printed parts)
 
 Total in ₹ (Indian Rupees): ₹17,706.65
 
@@ -117,7 +119,7 @@ Total in $ (US Dollars): $213.30
 
 
 
-## Totals ( excluding 3d printed parts )
+## Totals ( Excluding 3d printed parts )
 - Servos subtotal (DS3218): (₹26,000 → $272.00)
 - All hardware and electronics (₹40,780 → $426.65)
 - **Overall BOM:** ₹40,780 → $426.65
