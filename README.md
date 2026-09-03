@@ -105,23 +105,23 @@ View the CAD designs with panels removed:
 
 | **No.** | **[Item](ca://s?q=Explain_item_names_in_BOM)** | **[Specification](ca://s?q=Explain_specifications_in_BOM)** | **[Quantity](ca://s?q=Explain_quantity_in_BOM)** | **[Unit Price ₹](ca://s?q=Explain_unit_price_in_Rupees)** | **[Unit Price $](ca://s?q=Explain_unit_price_in_USD)** | **[Total ₹](ca://s?q=Explain_total_in_Rupees)** | **[Total $](ca://s?q=Explain_total_in_USD)** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | bodytocoxa-BodyFillet005.stl | to connect body to coxa motor | 6 | 266.40 | 3.21 | 1,598.40 | 19.25 |
-| 2 | coxatofemurlower-BodyFillet001.stl | for coxa motor ball bearing | 6 | 94.11 | 1.13 | 564.66 | 6.80 |
-| 3 | femurtocoxahorncover-Body.stl | cover for coxa motor horn | 6 | 47.38 | 0.57 | 284.28 | 3.42 |
-| 4 | femur-BodyFillet004.stl | to connect femur motor horn to tibia | 6 | 516.25 | 6.22 | 3,097.50 | 37.30 |
-| 5 | femurbottom-BodyFillet003.stl | for tibia motor ball bearing | 6 | 105.00 | 1.27 | 630.00 | 7.59 |
-| 6 | tibiaballbearing-BodyFillet002.stl | for tibia motor ball bearing | 6 | 95.54 | 1.15 | 573.24 | 6.91 |
-| 7 | tibiahornpart-BodyFillet003.stl | for tibia motor horn | 6 | 293.45 | 3.54 | 1,760.70 | 21.21 |
+| 1 | bodytocoxa-BodyFillet005.stl | to connect body to coxa servo | 6 | 266.40 | 3.21 | 1,598.40 | 19.25 |
+| 2 | coxatofemurlower-BodyFillet001.stl | for coxa servo ball bearing | 6 | 94.11 | 1.13 | 564.66 | 6.80 |
+| 3 | femurtocoxahorncover-Body.stl | for coxa,tibia servo horn | 12 | 47.38 | 0.57 | - | - |
+| 4 | femur-BodyFillet004.stl | to connect coxa servo horn to femur motor | 6 | 516.25 | 6.22 | 3,097.50 | 37.30 |
+| 5 | femurbottom-BodyFillet003.stl | for femur servo ball bearing | 6 | 105.00 | 1.27 | 630.00 | 7.59 |
+| 6 | tibiaballbearing-BodyFillet002.stl | for tibia servo ball bearing | 6 | 95.54 | 1.15 | 573.24 | 6.91 |
+| 7 | tibiahornpart-BodyFillet003.stl | for tibia servo horn | 6 | 293.45 | 3.54 | 1,760.70 | 21.21 |
 | 8 | tibiatipL-BodyFillet001.stl | tibia leg part | 6 | 69.75 | 0.84 | 418.50 | 5.04 |
 | 9 | tibiatipR-BodyFillet001.stl | tibia leg part | 6 | 96.76 | 1.17 | 580.56 | 6.99 |
 | 10 | cover-BodyFillet.stl| to hold ground, shock rod and suspension| 12 | 40.48 | 0.49 | 485.76 | 5.86 |
 | 11 | groundshockbottom-BodyFillet001.stl | the main structure of ground, shock absorber | 6 | 217.41 | 2.62 | 1,304.46 | 15.72 |
 | 12 | groundshock-middle-BodyFillet001.stl | for rod and suspension and sensor | **12** | 74.63 | 0.90 | 895.56 | 10.79 |
 | 13 | theend2-BodyPad001.stl | the round tip for leg | 6 | 54.97 | 0.66 | 329.82 | 3.97 |
-| 14 | 1mmhalfspring-BodyPocket005.stl | suspension | 12 | 42.27 | 0.51 | 507.24 | 6.11 |
-| 15 | 1mmspring-BodyFillet001.stl | suspension | 12 | 58.51 | 0.70 | 702.12 | 8.46 |
-| 16 | TPU2.5mmhalfspring-BodyPocket.stl | suspension | 12 | 48.71 | 0.59 | 584.52 | 7.04 |
-| 17 | TPU2.5mmspring-bodyfillet001.stl | suspension | 12 | 66.30 | 0.80 | 795.60 | 9.58 |
+| 14 | 1mmhalfspring-BodyPocket005.stl | suspension 1 | 12 | 42.27 | 0.51 | 507.24 | 6.11 |
+| 15 | 1mmspring-BodyFillet001.stl | suspension 2 | 12 | 58.51 | 0.70 | 702.12 | 8.46 |
+| 16 | TPU2.5mmhalfspring-BodyPocket.stl | suspension 3 | 12 | 48.71 | 0.59 | 584.52 | 7.04 |
+| 17 | TPU2.5mmspring-bodyfillet001.stl | suspension 4 | 12 | 66.30 | 0.80 | 795.60 | 9.58 |
 | 18 | 2.0v1mg996rhightorquebody–BodyMirrored001.stl| the main body of the robot | 1 | 1,513.53 | 18.24 | 1,513.53 | 18.24 |
 ---
 
