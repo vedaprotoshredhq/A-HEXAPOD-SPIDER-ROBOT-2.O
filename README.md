@@ -114,7 +114,7 @@ View the CAD designs with panels removed:
 | 7 | tibiahornpart-BodyFillet003.stl | for tibia servo horn | 6 | 293.45 | 3.54 | 1,760.70 | 21.21 |
 | 8 | tibiatipL-BodyFillet001.stl | tibia leg part | 6 | 69.75 | 0.84 | 418.50 | 5.04 |
 | 9 | tibiatipR-BodyFillet001.stl | tibia leg part | 6 | 96.76 | 1.17 | 580.56 | 6.99 |
-| 10 | cover-BodyFillet.stl| to hold ground, shock rod and suspension| 12 | 40.48 | 0.49 | 485.76 | 5.86 |
+| 10 | cover-BodyFillet.stl| to hold ground, shock rod and suspension| 12 | 40.48 | 0.49 | 485.76 | 5.83 |
 | 11 | groundshockbottom-BodyFillet001.stl | the main structure of ground, shock absorber | 6 | 217.41 | 2.62 | 1,304.46 | 15.72 |
 | 12 | groundshock-middle-BodyFillet001.stl | for rod and suspension and sensor | **12** | 74.63 | 0.90 | 447.80 | 10.79 |
 | 13 | theend2-BodyPad001.stl | the round tip for leg | 6 | 54.97 | 0.66 | 329.82 | 3.97 |
@@ -131,7 +131,7 @@ View the CAD designs with panels removed:
 
 ## Totals (ONLY 3D PRINTED PARTS )
 
-Total in ₹ (Indian Rupees): ₹17,706.65
+Total in ₹ (Indian Rupees): ₹18,648.46
 
 Total in $ (US Dollars): $213.30
 
@@ -140,7 +140,7 @@ Total in $ (US Dollars): $213.30
 ## Totals ( ONLY HARDWARE AND ELECTRONICS )
 - Servos subtotal (DS3218): (₹26,000 → $272.00)
 - All hardware and electronics (₹40,780 → $426.65)
-- **Overall BOM:** ₹17,706.65 + ₹40,780 → $213.30 + $426.65 = ₹58,486.65 → $639.95
+- **Overall BOM:** ₹18,648.46 + ₹40,780 → $213.30 + $426.65 = ₹59,428.46 → $639.95
 
 ---
 
