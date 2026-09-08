@@ -107,7 +107,7 @@ View the CAD designs with panels removed:
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | bodytocoxa-BodyFillet005.stl | to connect body to coxa servo | 6 | 266.40 | 3.21 | 1,598.40 | 19.25 |
 | 2 | coxatofemurlower-BodyFillet001.stl | for coxa servo ball bearing | 6 | 94.11 | 1.13 | 564.66 | 6.80 |
-| 3 | femurtocoxahorncover-Body.stl | for coxa,tibia servo horn | 12 | 47.38 | 0.57 | - | - |
+| 3 | femurtocoxahorncover-Body.stl | for coxa,tibia servo horn | 6 | 47.38 | 0.57 | - | - |
 | 4 | femur-BodyFillet004.stl | to connect coxa servo horn to femur motor | 6 | 516.25 | 6.22 | 3,097.50 | 37.30 |
 | 5 | femurbottom-BodyFillet003.stl | for femur servo ball bearing | 6 | 105.00 | 1.27 | 630.00 | 7.59 |
 | 6 | tibiaballbearing-BodyFillet002.stl | for tibia servo ball bearing | 6 | 95.54 | 1.15 | 573.24 | 6.91 |
@@ -123,9 +123,9 @@ View the CAD designs with panels removed:
 | 16 | TPU2.5mmhalfspring-BodyPocket.stl | suspension 3 | 12 | 48.71 | 0.59 | 584.52 | 7.04 |
 | 17 | TPU2.5mmspring-bodyfillet001.stl | suspension 4 | 12 | 66.30 | 0.80 | 795.60 | 9.58 |
 | 18 | 2.0v1mg996rhightorquebody–BodyMirrored001.stl| the main body of the robot | 1 | 1,513.53 | 18.24 | 1,513.53 | 18.24 |
-| 19 | femurtocoxa-BodyFillet003.stl | coxa motor horn to femur motor | 6 | ₹336.37 | - | ₹2,018.21 | - |
-| 20 | tibiahorncover.stl | tibia motor horn cover | 6 | ₹47.38 | - | ₹284.26 | - |
-| 20 | femurtotibiahorncover-BodyFillet002.stl | femur motor horn cover | 6 | ₹54.89 | - | ₹329.36 | - |
+| 19 | femurtocoxa-BodyFillet003.stl | coxa motor horn to femur motor | 6 | 336.37 | 3.55 | 2,018.21 | 21.28 |
+| 20 | tibiahorncover.stl | tibia motor horn cover | 6 | 47.38 | 0.57 | 284.26 | 3.42 |
+| 20 | femurtotibiahorncover-BodyFillet002.stl | femur motor horn cover | 6 | 54.89 | 0.58 | 329.36 | 3.48 |
 ---
 
 
