@@ -123,9 +123,9 @@ View the CAD designs with panels removed:
 | 16 | TPU2.5mmhalfspring-BodyPocket.stl | suspension 3 | 12 | 48.71 | 0.59 | 584.52 | 7.04 |
 | 17 | TPU2.5mmspring-bodyfillet001.stl | suspension 4 | 12 | 66.30 | 0.80 | 795.60 | 9.58 |
 | 18 | 2.0v1mg996rhightorquebody–BodyMirrored001.stl| the main body of the robot | 1 | 1,513.53 | 18.24 | 1,513.53 | 18.24 |
-| 19 | femurtocoxa-BodyFillet003.stl | coxa motor horn to femur motor | 6 | 336.37 | 3.55 | 2,018.21 | 21.28 |
+| 19 | femurtocoxa-BodyFillet003.stl | coxa motor horn to femur motor | 6 | 336.37 | 3.55 | 2,018.22 | 21.23 |
 | 20 | tibiahorncover.stl | tibia motor horn cover | 6 | 47.38 | 0.57 | 284.26 | 3.42 |
-| 20 | femurtotibiahorncover-BodyFillet002.stl | femur motor horn cover | 6 | 54.89 | 0.58 | 329.36 | 3.48 |
+| 20 | femurtotibiahorncover-BodyFillet002.stl | femur motor horn cover | 6 | 54.89 | 0.58 | 329.34 | 3.48 |
 ---
 
 
