@@ -107,7 +107,7 @@ View the CAD designs with panels removed:
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | bodytocoxa-BodyFillet005.stl | to connect body to coxa servo | 6 | 266.40 | 3.21 | 1,598.40 | 19.25 |
 | 2 | coxatofemurlower-BodyFillet001.stl | for coxa servo ball bearing | 6 | 94.11 | 1.13 | 564.66 | 6.80 |
-| 3 | femurtocoxahorncover-Body.stl | for coxa,tibia servo horn | 6 | 47.38 | 0.57 | - | - |
+| 3 | femurtocoxahorncover-Body.stl | for coxa,tibia servo horn | 6 | 47.38 | 0.57 | 284.28 | 3.42 |
 | 4 | femur-BodyFillet004.stl | to connect coxa servo horn to femur motor | 6 | 516.25 | 6.22 | 3,097.50 | 37.30 |
 | 5 | femurbottom-BodyFillet003.stl | for femur servo ball bearing | 6 | 105.00 | 1.27 | 630.00 | 7.59 |
 | 6 | tibiaballbearing-BodyFillet002.stl | for tibia servo ball bearing | 6 | 95.54 | 1.15 | 573.24 | 6.91 |
