@@ -116,7 +116,7 @@ View the CAD designs with panels removed:
 | 9 | tibiatipR-BodyFillet001.stl | tibia leg part | 6 | 96.76 | 1.17 | 580.56 | 6.99 |
 | 10 | cover-BodyFillet.stl| to hold ground, shock rod and suspension| 12 | 40.48 | 0.49 | 485.76 | 5.86 |
 | 11 | groundshockbottom-BodyFillet001.stl | the main structure of ground, shock absorber | 6 | 217.41 | 2.62 | 1,304.46 | 15.72 |
-| 12 | groundshock-middle-BodyFillet001.stl | for rod and suspension and sensor | **12** | 74.63 | 0.90 | 895.56 | 10.79 |
+| 12 | groundshock-middle-BodyFillet001.stl | for rod and suspension and sensor | **12** | 74.63 | 0.90 | 447.50 | 10.79 |
 | 13 | theend2-BodyPad001.stl | the round tip for leg | 6 | 54.97 | 0.66 | 329.82 | 3.97 |
 | 14 | 1mmhalfspring-BodyPocket005.stl | suspension 1 | 12 | 42.27 | 0.51 | 507.24 | 6.11 |
 | 15 | 1mmspring-BodyFillet001.stl | suspension 2 | 12 | 58.51 | 0.70 | 702.12 | 8.46 |
