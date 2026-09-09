@@ -90,7 +90,7 @@ View the CAD designs with panels removed:
 
 | Item | Specification / Notes | Indian Retailers | Quantity | Unit Price (INR) | Unit Price (USD) | Total Price (INR) | Total Price (USD) |
 |------|------------------------|-----------|----------|------------------|------------------|-------------------|-------------------|
-| ARDUINO UNO Q or RASBERRY PI 3,4,5 | advanced calculations , smart control , AI | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹7750 | $80.95 | ₹7750 | $80.95 |
+| ARDUINO UNO Q or RASBERRY PI 3,4,5 | advanced calculations , smart control , AI | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹750| $7.5 | ₹750 | $7.5|
 | MPU6050 Sensor | 6‑axis gyro + accelerometer | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹200 | $2.1 | ₹200 | $2.1 |
 | CD74HC4067 | 16-CHANNEL ANALOG/DIGITAL MULTIPLEXER/DEMULTIPLEXER BREAKOUT BOARD | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹70 | $0.75| ₹140 | $1.5 |
 | PCA9685 Driver | 16‑channel servo driver | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹300 | $3.15 | ₹600 | $6.30 |
@@ -140,7 +140,7 @@ Total in $ (US Dollars): $213.30
 ## Totals ( ONLY HARDWARE AND ELECTRONICS )
 - Servos subtotal (DS3218): (₹26,000 → $272.00)
 - All hardware and electronics (₹40,780 → $426.65)
-- **Overall BOM:** ₹18,648.46 + ₹40,780 → $213.30 + $426.65 = ₹59,428.46 → $639.95
+- **Overall BOM:** ₹18,648.46 + ₹33,530 → $213.30 + $353.65 = ₹59,428.46 → $566.95
 
 ---
 
