@@ -140,7 +140,7 @@ Total in $ (US Dollars): $213.30
 ## Totals ( ONLY HARDWARE AND ELECTRONICS )
 - Servos subtotal (DS3218): (₹26,000 → $272.00)
 - All hardware and electronics (₹40,780 → $426.65)
-- **Overall BOM:** ₹18,648.46 + ₹33,530 → $213.30 + $353.65 = ₹59,428.46 → $566.95
+- **Overall BOM:** ₹18,648.46 + ₹33,530 → $213.30 + $353.65 = ₹52,178.46 → $566.95
 
 ---
 
