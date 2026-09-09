@@ -90,7 +90,7 @@ View the CAD designs with panels removed:
 
 | Item | Specification / Notes | Indian Retailers | Quantity | Unit Price (INR) | Unit Price (USD) | Total Price (INR) | Total Price (USD) |
 |------|------------------------|-----------|----------|------------------|------------------|-------------------|-------------------|
-| ARDUINO UNO Q or RASBERRY PI 3,4,5 | advanced calculations , smart control , AI | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹750| $7.5 | ₹750 | $7.5|
+| RASBERRY PI Pico W | advanced calculations , smart control | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹750| $7.5 | ₹750 | $7.5|
 | MPU6050 Sensor | 6‑axis gyro + accelerometer | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹200 | $2.1 | ₹200 | $2.1 |
 | CD74HC4067 | 16-CHANNEL ANALOG/DIGITAL MULTIPLEXER/DEMULTIPLEXER BREAKOUT BOARD | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹70 | $0.75| ₹140 | $1.5 |
 | PCA9685 Driver | 16‑channel servo driver | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹300 | $3.15 | ₹600 | $6.30 |
