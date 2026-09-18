@@ -34,5 +34,4 @@ void setup() {
 }
 
 void loop() {
-  // Nothing needed — PCA9685 keeps PWM signals active
 }
