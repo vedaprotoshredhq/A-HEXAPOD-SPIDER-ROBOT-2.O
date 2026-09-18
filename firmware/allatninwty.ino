@@ -4,8 +4,8 @@
 Adafruit_PWMServoDriver pwm1 = Adafruit_PWMServoDriver(0x40); 
 Adafruit_PWMServoDriver pwm2 = Adafruit_PWMServoDriver(0x41);
 
-#define SERVOMIN  150  // Min pulse length out of 4096
-#define SERVOMAX  600  // Max pulse length out of 4096
+#define SERVOMIN  150 
+#define SERVOMAX  600
 
 int angleToPulse(int angle) {
   return map(angle, 0, 180, SERVOMIN, SERVOMAX);
