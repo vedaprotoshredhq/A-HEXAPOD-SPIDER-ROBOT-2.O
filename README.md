@@ -133,14 +133,14 @@ View the CAD designs with panels removed:
 
 Total in ₹ (Indian Rupees): ₹18,648.46
 
-Total in $ (US Dollars): $213.30
+Total in $ (US Dollars): $196.14
 
 
 
 ## Totals ( ONLY HARDWARE AND ELECTRONICS )
-- Servos subtotal (DS3218): (₹26,000 → $272.00)
-- All hardware and electronics (₹40,780 → $426.65)
-- **Overall BOM:** ₹18,648.46 + ₹33,530 → $213.30 + $353.65 = ₹52,178.46 → $566.95
+- Servos subtotal (DS3218): (₹26,000 → $273.36)
+- All hardware and electronics (₹40,780 → $428.76)
+- **Overall BOM:** ₹18,648.46 + ₹40,780 → $196.14 + $428.76 = ₹59,428.46 → $624.83
 
 ---
 
