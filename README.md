@@ -90,15 +90,15 @@ View the CAD designs with panels removed:
 
 | Item | Specification / Notes | Indian Retailers | Quantity | Unit Price (INR) | Unit Price (USD) | Total Price (INR) | Total Price (USD) |
 |------|------------------------|-----------|----------|------------------|------------------|-------------------|-------------------|
-| RASBERRY PI Pico W | advanced calculations , smart control | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹750| $7.5 | ₹750 | $7.5|
+| RASBERRY PI Pico W | advanced calculations , smart control | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹750| $7.9 | ₹750 | $7.9|
 | MPU6050 Sensor | 6‑axis gyro + accelerometer | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹200 | $2.1 | ₹200 | $2.1 |
 | CD74HC4067 | 16-CHANNEL ANALOG/DIGITAL MULTIPLEXER/DEMULTIPLEXER BREAKOUT BOARD | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹70 | $0.75| ₹140 | $1.5 |
-| PCA9685 Driver | 16‑channel servo driver | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹300 | $3.15 | ₹600 | $6.30 |
-| DS3240 Servo | 180° digital high‑torque servo | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 20 | ₹1,300 | $13.68 | ₹26,000 | $273.60 |
-| LiPo Battery | 2S 7.4V 2200mAh | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹1,600 | $16.75 | ₹1,600 | $16.75 |
-| LiPo Charger | 1S–4S balance charger | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹2,500 | $26.15 | ₹2,500 | $26.15 |
-| Buck Converter | 300 W / 20 A DC‑DC | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹495 | $5.20 | ₹990 | $10.40 |
-| Screws (M2 + M3) | **M2:** 8mm×168, 12mm×12 <br> **M3:** 8mm×24, 12mm×84, 16mm×12 | OnlyScrews | Combined set | ₹1,000 | $10.50 | ₹1,000 | $10.50 |
+| PCA9685 Driver | 16‑channel servo driver | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹300 | $3.16 | ₹600 | $6.31 |
+| DS3240 Servo | 180° digital high‑torque servo | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 20 | ₹1,300 | $13.70 | ₹26,000 | $274 |
+| LiPo Battery | 2S 7.4V 2200mAh | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹1,600 | $16.84 | ₹1,600 | $16.84 |
+| LiPo Charger | 1S–4S balance charger | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 1 | ₹2,500 | $26.31 | ₹2,500 | $26.31 |
+| Buck Converter | 300 W / 20 A DC‑DC | Zbotic, Robu.in, Robocraze, QuartzComponents, FlyRobo | 2 | ₹495 | $5.21 | ₹990 | $10.42 |
+| Screws (M2 + M3) | **M2:** 8mm×168, 12mm×12 <br> **M3:** 8mm×24, 12mm×84, 16mm×12 | OnlyScrews | Combined set | ₹1,000 | $10.52 | ₹1,000 | $10.52 |
 ---
 
 ## 3D PRINTED PARTS BOM 
@@ -139,7 +139,7 @@ Total in $ (US Dollars): $196.29
 
 ## Totals ( ONLY HARDWARE AND ELECTRONICS )
 - Servos subtotal (DS3218): (₹26,000 → $273.60)
-- All hardware and electronics (₹33,780 → $353.20)
+- All hardware and electronics (₹33,780 → $355.60)
 - **Overall BOM:** ₹18,648.46 + ₹33,780 → $196.14 + $353.20 = ₹52,428.46 → $551.87
 
 ---
